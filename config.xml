@@ -5,7 +5,7 @@
         xmlns:cdv="http://cordova.apache.org/ns/1.0"
         id          = "it404.app.ru"
         versionCode = "10"
-        version     = "1.0.0">
+        version     = "1.1.0">
 
     <name>ТЕСТ. it404.ru</name>
 
@@ -30,7 +30,7 @@
     <preference name='WindowsToastCapable' value='true' />
 
     <preference name="SplashMaintainAspectRatio" value="true" />
-    <preference name="SplashScreenSpinnerColor" value="#F5F5F5" />
+    <preference name="SplashScreenSpinnerColor" value="#007BFF" />
     
     <platform name="android">
       <edit-config file="app/src/main/AndroidManifest.xml" mode="merge" target="/manifest/application">
@@ -40,12 +40,12 @@
 
 
     <platform name="android">
-        <icon src="res/android/icon/92252701d256e3bad44e96f9621eb637.png" density="ldpi" />
-        <icon src="res/android/icon/8ffd25d4730bdb8e634588be107777fb.png" density="mdpi" />
-        <icon src="res/android/icon/9738a90079892399eece315520f06a06.png" density="hdpi" />
-        <icon src="res/android/icon/a230ffa44b7fb2bbfaeacfa5fdadbc88.png" density="xhdpi" />
-        <icon src="res/android/icon/e106f951a56bd76654a3d7f288f5aa42.png" density="xxhdpi" />
-        <icon src="res/android/icon/f14a46c103de944e6db62555fbb64720.png" density="xxxhdpi" />
+        <icon src="res/android/icon/b9d3209cf3d618915a905df658910d4e.png" density="ldpi" />
+        <icon src="res/android/icon/26e6789021f121cc4f72d37b3a7d9935.png" density="mdpi" />
+        <icon src="res/android/icon/a217763e87f1aa068d3e9dfb6d842aae.png" density="hdpi" />
+        <icon src="res/android/icon/2d0b16ae57e84886995d9c126f32c1df.png" density="xhdpi" />
+        <icon src="res/android/icon/516a4d550aea04811dda442cb859f929.png" density="xxhdpi" />
+        <icon src="res/android/icon/62aa8c325127750c378cdcc3001b3375.png" density="xxxhdpi" />
 
         <splash src="res/android/screen/6097723282013808f5f62d4380a8055a.png" density="port-hdpi"/>
         <splash src="res/android/screen/412f92755234be5b590c18851f19da0f.png" density="port-ldpi"/>
@@ -69,12 +69,12 @@
         <icon src="res/ios/icon/f39ce8d8a549290528b464de932b3c80.png" width="87" height="87" />
         <icon src="res/ios/icon/405b1998aebb06ef1d820c7790f88729.png" width="167" height="167" />
 
-        <splash src="res/ios/screen/0f3d804f7f2eaace60e14ce5ff01663f.png" />
-        <splash src="res/ios/screen/2050c2b6752a9fe580fd6cc9e3efe906.png" />
-        <splash src="res/ios/screen/d31366eac4c328a31682aeff52882713.png" />
-        <splash src="res/ios/screen/7a1c9460baf671e1fd2250efe0d64d77.png" />
-        <splash src="res/ios/screen/b3b4b76cf8c4373543198494cff35fa5.png" />
-        <splash src="res/ios/screen/cf337e262a30d6f3419375ac2cbe68ca.png" />
+        <splash src="res/ios/screen/9716f4fe6ce5b2b6622d421300c9540a.png" />
+        <splash src="res/ios/screen/31d42b7989b5c59f681fc56c441b8504.png" />
+        <splash src="res/ios/screen/7ea4ab10ea460c0572c6eb511ff962f9.png" />
+        <splash src="res/ios/screen/782806c5dd6ed3bcd59b07986342dc41.png" />
+        <splash src="res/ios/screen/eb6ed4e4ccdc067300a38b613ed2755a.png" />
+        <splash src="res/ios/screen/fe96842ba310dff945360be43391c2f9.png" />
     </platform>
 
     <platform name="winphone">
